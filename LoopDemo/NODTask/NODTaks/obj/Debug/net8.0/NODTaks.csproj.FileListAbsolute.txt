@@ -1,0 +1,14 @@
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\bin\Debug\net8.0\NODTaks.exe
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\bin\Debug\net8.0\NODTaks.deps.json
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\bin\Debug\net8.0\NODTaks.runtimeconfig.json
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\bin\Debug\net8.0\NODTaks.dll
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\bin\Debug\net8.0\NODTaks.pdb
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\NODTaks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\NODTaks.AssemblyInfoInputs.cache
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\NODTaks.AssemblyInfo.cs
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\NODTaks.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\NODTaks.dll
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\refint\NODTaks.dll
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\NODTaks.pdb
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\NODTaks.genruntimeconfig.cache
+D:\C#Learning\Labs\AlgorithmTask\LoopDemo\NODTask\NODTaks\NODTaks\obj\Debug\net8.0\ref\NODTaks.dll

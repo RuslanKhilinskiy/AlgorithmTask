@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqrt", "MySqrt\MySqrt.csproj", "{237B132D-4E02-4E1A-869F-00656784541C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237B132D-4E02-4E1A-869F-00656784541C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237B132D-4E02-4E1A-869F-00656784541C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237B132D-4E02-4E1A-869F-00656784541C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237B132D-4E02-4E1A-869F-00656784541C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D3B09C-E371-444E-A9A8-F951C4C59D18}
+	EndGlobalSection
+EndGlobal

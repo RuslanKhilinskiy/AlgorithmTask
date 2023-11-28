@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\AlgorithmTask\MySqrt\MySqrt\bin\Debug\MySqrt.exe.config
+D:\C#Learning\Labs\AlgorithmTask\MySqrt\MySqrt\bin\Debug\MySqrt.exe
+D:\C#Learning\Labs\AlgorithmTask\MySqrt\MySqrt\bin\Debug\MySqrt.pdb
+D:\C#Learning\Labs\AlgorithmTask\MySqrt\MySqrt\obj\Debug\MySqrt.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\AlgorithmTask\MySqrt\MySqrt\obj\Debug\MySqrt.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\AlgorithmTask\MySqrt\MySqrt\obj\Debug\MySqrt.exe
+D:\C#Learning\Labs\AlgorithmTask\MySqrt\MySqrt\obj\Debug\MySqrt.pdb
